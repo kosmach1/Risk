@@ -1,0 +1,23 @@
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\bin\Debug\Risk.exe.config
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\bin\Debug\Risk.exe
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\bin\Debug\Risk.pdb
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\obj\Debug\Risk.csprojResolveAssemblyReference.cache
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\obj\Debug\Risk.Form1.resources
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\obj\Debug\Risk.Properties.Resources.resources
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\obj\Debug\Risk.csproj.GenerateResource.Cache
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\obj\Debug\Risk.exe
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\obj\Debug\Risk.pdb
+c:\users\kos_b\onedrive\documents\visual studio 2017\Projects\Risk\Risk\obj\Debug\Risk.ConquerAll.resources
+D:\Desktop\Risk\Risk\bin\Debug\Risk.exe.config
+D:\Desktop\Risk\Risk\bin\Debug\Risk.exe
+D:\Desktop\Risk\Risk\bin\Debug\Risk.pdb
+D:\Desktop\Risk\Risk\obj\Debug\Risk.csprojResolveAssemblyReference.cache
+D:\Desktop\Risk\Risk\obj\Debug\Risk.Form1.resources
+D:\Desktop\Risk\Risk\obj\Debug\Risk.Properties.Resources.resources
+D:\Desktop\Risk\Risk\obj\Debug\Risk.csproj.GenerateResource.Cache
+D:\Desktop\Risk\Risk\obj\Debug\Risk.exe
+D:\Desktop\Risk\Risk\obj\Debug\Risk.pdb
+D:\Desktop\Risk\Risk\obj\Debug\Risk.NewGame.resources
+D:\Desktop\Risk\Risk\obj\Debug\Risk.Napad.resources
+D:\Desktop\Risk\Risk\obj\Debug\Risk.PomestiVojnici.resources
+D:\Desktop\Risk\Risk\obj\Debug\Risk.Rules.resources

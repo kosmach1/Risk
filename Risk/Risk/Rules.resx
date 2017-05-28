@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>#2. Упатство за користењe #2.1 При стартување на апликацијата имате можност да започнете нова игра File-&gt;New Game со која ќе ви се отвори нов прозорец во кој вие ќе треба да ставите за со колку играчи ќе биде направена новата игра.Имате можност да изберето од 2-6 играчи и секој играч ќе треба да си го напише своето име.
+
+#2.2 Како се игра играта Од како ќе ја креирате играта на секој играч му се доделуваат рандом територии.Во зависност од тоа колку играчи ја играат играта соодветно толку територии ќе има секој играч.Сите играчи имаат најчесто ист број на територии на почеток(42/бројНаИграчи).На секој играч истотака му се доделуваат војници.Војниците исто зависат од бројот на играчи.Почетни војници = 40 - ((бројИграчи - 2) * 5).Една територија за да се брои како нечива мора да има минимум 1 војник на неа, што значи остануваат уште само неколку од почетните војници да се доделат.Во интерес на време војниците исто така се доделуваат на рандом територии.Секој играч има своја боја и така визуелно се представени неговите територии.Со клик на секоја територија(бројчето со број на војници со обоена позадина) се ажуриратт податоците за неа во groupbox-от за територии со информации како името на територијата, кој ја поседува и бројот на војници.Во groupbox-от за играчи ги има информациите за сите играчи.Која боја се, колку територии и војници поседуваат.Играчот(Играч1) ја започнува играта прв,најпрво во groupbox-от за кој играч е на ред има информациија за тоа колку војници добил тој играч оваа рунда.Секоја играч добива екстра војници со секој поминат ред во зависност од тоа кога ќе дојде на ред колку територии контролира поточно добива (територииКонтролирани/2) војници и ако има освоено цел континет плус добива војници од тоа кој и колку континенти ги освоил(За бројот на војници освоени од континент пишува визуелно на самата мапа).Играчот има можност но и должност кога сака кога ќе дојде на ред да ги постави екстра војниците на неговите територии.Војниците се поставуваат на една територија со двоен клик на неа што значи +1 војник на таа територија.Единствен услов за играч да го предаде својот ред на наредниот играч е да ги постави сите негови екстра војници на мапата.Сега целата суштина во играта е кој ќе ги освои сите територии тој е победник, па затоа треба да се внимава кај се поставуваат војниците.После ова играчот има 3 избора, дали да заврши со редот,дали да нападне некоја територија или пак дали да помести војници. Избор 1-Завршуваш со редот и сега на ред доаѓа следниот играч. Избор 2-За напад на некоја територија има две правила а тоа се може да се нападне територија само ако е соседна на некоја од твоите територии,и од територијата која напаѓаш да има минимум 1 војник. За напад на територија ја избираме својата територија со клик на неа и во listbox-от се испишуваат сите соседни територии.Ако се твои територии може само да се поместат војници,а ако се на други играчи да се нападнат.Нападот се одвива со избор на соседната територија која сакаме да ја нападнеме од територијата која сме ја кликнале на мапата и со клик на копчето Напад.Сега се отвара нова форма во која ги ги пишува информациите на двете територии и има копчиња напад, нападни до крај и готово.Можеме да напаѓеме до кога сакаме ако сакаме да се откажеме предвремено ги притискаме копчето Готово.Копчето напад извршува 1 напад.Напад значи игра на среќа.Ако напаѓачот има 2 војника тој фрла со 1 коцка ако има 3 фрла со две и ако има повеќе од 3 фрла со 3 коцки.Одбраната ако има 1 војник фрла со 1 коцка а ако има 2 војника фрла со 2 коцки.Секоја коцка се гледа посебно повеќето коцки ја зголемуваат шансата за 6ка.Кој фрли најголем број тој победува во битката.Но тука одбраната има предност и ако се погоди двата најголеми броја да се еднакви одбраната ја добива битката. Кој губи во битката ќе му се одземе 1 војник од таа територија.Напаѓачот е во можност да напаѓа се додека не остане на 1 војник или не ја освои територијата која ја напаѓа.Со копчето нападни до крај напаѓа додека не дојде до 1 војник или не ја освои другата територија автоматски.Ако ја освои се отвара форма во која треба да специфицира колку војници(минумум 1) ќе ги префрли во ново освоената територија. Избор 3-За да поместиме војници исто така како нападот мора да се соседни на територијата од која сакаме да ги поместиме.Се поместуваат војници колку сакаме од една наша територија на друга,но само еднаш на секој ред.Може оваа опција исто како и Нападот да не се искористат. Кога ќе се стисне копчето помести војници ни се отвара форма во која бираме во numUpDown колку војници ќе се преместат.Потоа треба да стиснеме на копчето премести за да се преместат.Имаме и опција Премести ги сите во која ги преместува сите војници освен 1 кој мора да ја обележи територијата за негова. Така секој ред играчот бира колку и дали ќе нападне територии.Кога ќе заврши со редот кликнува копчето Готов за да дојде следниот играч на ред.И така до крај додека некој не ги освои сите територии.</value>
+  </data>
+</root>
